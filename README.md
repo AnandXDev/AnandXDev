@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandxdev&show_icons=true&locale=en&layout=compact" alt="anandxdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandxdev&show_icons=true&locale=en" alt="anandxdev" /></p>
+
